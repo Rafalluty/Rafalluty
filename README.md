@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# Tester-s-Portfolio
 
 # About Me
 
