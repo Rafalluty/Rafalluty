@@ -38,13 +38,14 @@ Webpage [Platforma Coders Guru](https:tester.codersguru.pl/)
 
 -[Test Plan](https://drive.google.com/file/d/16yf44YBEnZO5Jk2LfRvofT976G8McO9w/view?usp=sharing)
 
-# My Test Raport
+# My Test Report
 
 Testing the subpadge [X-kom-promocje](https://www.x-kom.pl/promocje)
 
--[Test Raport](https://drive.google.com/file/d/1_dfwdnuAv9GQCo6jF8vZmLbf6_cmj6YS/view?usp=sharing)
+-[Test Report](https://drive.google.com/file/d/1_dfwdnuAv9GQCo6jF8vZmLbf6_cmj6YS/view?usp=sharing)
 
-# My job task
+# My recruitment task
+-[Test Cases](https://drive.google.com/file/d/1mTXVLwhV6-ioLOmus6XHtcSyZKGOUfTb/view?usp=sharing)
 
 
 
